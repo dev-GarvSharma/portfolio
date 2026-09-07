@@ -95,7 +95,7 @@ function Hero() {
   return (
     <section id="top" className="hero">
       <div className="hero-copy">
-        <p className="eyebrow">FULL-STACK SOFTWARE ENGINEER / INDIA</p>
+        <p className="eyebrow">FREELANCE FULL-STACK DEVELOPER / DELHI NCR · NOIDA</p>
         <h1>
           Building digital products
           <br />
@@ -105,7 +105,9 @@ function Hero() {
         </h1>
         <p className="intro">
           I work across interfaces, APIs, databases and mobile experiences to
-          turn complex product ideas into reliable things people can use.
+          turn complex product ideas into reliable things people can use. I’m
+          available for freelance web, mobile and software projects in Delhi
+          NCR, Noida and remotely.
         </p>
         <div className="actions">
           <A className="button" href="#work">
@@ -613,6 +615,7 @@ function AboutContact() {
           <em>building?</em>
         </h2>
         <p>Let's turn the idea into something people can actually use.</p>
+        <p>Available for freelance projects in Delhi NCR, Noida and remotely.</p>
         <A href={"mailto:" + email} className="contact-button">
           Start a conversation →
         </A>
