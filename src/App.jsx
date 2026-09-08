@@ -95,7 +95,7 @@ function Hero() {
   return (
     <section id="top" className="hero">
       <div className="hero-copy">
-        <p className="eyebrow">FREELANCE FULL-STACK DEVELOPER / DELHI NCR · NOIDA</p>
+        <p className="eyebrow">FULL-STACK DEVELOPER / DELHI NCR · NOIDA</p>
         <h1>
           Building digital products
           <br />
@@ -106,7 +106,7 @@ function Hero() {
         <p className="intro">
           I work across interfaces, APIs, databases and mobile experiences to
           turn complex product ideas into reliable things people can use. I’m
-          available for freelance web, mobile and software projects in Delhi
+          available for web, mobile and software projects in Delhi
           NCR, Noida and remotely.
         </p>
         <div className="actions">
@@ -132,7 +132,7 @@ function Hero() {
             <i />
             <i />
             <i />
-            <span>cuppanord / collection</span>
+            <span>Ecommerce / collection</span>
           </div>
           <div className="shop-ui">
             <aside>
@@ -392,12 +392,12 @@ function MobileApps() {
         <div className="big-phone coffee">
           <img
             src="/projects/cuppanordapp.webp"
-            alt="Cuppanord mobile app screenshot"
+            alt="Ecommerce for Coffee & Tea mobile app screenshot"
             loading="lazy"
           />
         </div>
         <div className="app-label second">
-          CUPPANORD <span>React Native · API</span>
+          ECOMMERCE FOR COFFEE & TEA <span>React Native · API</span>
         </div>
       </div>
     </section>
@@ -559,7 +559,6 @@ function ProcessExperience() {
           <span>NOW</span>
           <div>
             <h3>Software Engineer</h3>
-            <h4>GlocalView Infotech</h4>
             <p>
               Building scalable React applications and Node.js APIs across web,
               mobile, e-commerce and business platforms.
@@ -615,7 +614,7 @@ function AboutContact() {
           <em>building?</em>
         </h2>
         <p>Let's turn the idea into something people can actually use.</p>
-        <p>Available for freelance projects in Delhi NCR, Noida and remotely.</p>
+        <p>Available for web, mobile and software projects in Delhi NCR, Noida and remotely.</p>
         <A href={"mailto:" + email} className="contact-button">
           Start a conversation →
         </A>

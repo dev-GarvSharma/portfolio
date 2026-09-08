@@ -1,7 +1,7 @@
 export const projects = [
   {
     id: "01",
-    title: "Cuppanord",
+    title: "Ecommerce for Coffee & Tea",
     category: "Commerce / CRM",
     description:
       "An e-commerce ecosystem for coffee and tea with customer management, loyalty, inventory and order operations.",
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     id: "03",
-    title: "HRMS",
+    title: "Human Resource Management System",
     category: "SaaS / HR Tech",
     description:
       "An enterprise HR platform for the complete employee lifecycle and HR operations.",
@@ -52,7 +52,7 @@ export const projects = [
   },
   {
     id: "04",
-    title: "VisitorBuk",
+    title: "Visitor Management System",
     category: "SaaS / Subscriptions",
     description:
       "Visitor management and subscriptions with automated payments, dashboards and reporting.",
@@ -67,7 +67,7 @@ export const projects = [
   },
   {
     id: "05",
-    title: "GlocalView LMS",
+    title: "Learning Management System",
     category: "LMS / EdTech / AI",
     description:
       "A learning platform for courses, assessments and personalized learning paths.",
@@ -82,7 +82,7 @@ export const projects = [
   },
   {
     id: "06",
-    title: "GlocalTjenester",
+    title: "Service Marketplace",
     category: "Marketplace / SaaS",
     description:
       "A Norway-based marketplace connecting customers with local service providers.",
@@ -97,7 +97,7 @@ export const projects = [
   },
   {
     id: "07",
-    title: "GlocalView",
+    title: "Portfolio Website",
     category: "Digital Products",
     description:
       "Full-stack digital products with a focus on useful interfaces and stable systems.",
